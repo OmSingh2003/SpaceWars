@@ -63,7 +63,7 @@ SpaceWars/
 - Om Singh  
 - [GitHub Profile](https://github.com/OmSingh2003)
 - Jatin Sen
-- [Github Profile}()
+- [Github Profile]()
 - Aman2822
 - [Github Profile]()
 
