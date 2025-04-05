@@ -23,21 +23,18 @@
 
 ### Prerequisites
 
-- .NET SDK or game engine used (e.g., Unity with version)
-- A C# compatible IDE (Visual Studio, Rider, etc.)
+- Unity.
 
 ### Installation
-```markdown
 1. Clone the repository:
    ```bash
    git clone https://github.com/OmSingh2003/SpaceWars.git
    cd SpaceWars
    ```
-2. Open the project in your IDE or game engine.
+2. Open the project in Unity.
 
 3. Build and run the game.
 
-> ℹ️ If this project uses Unity or MonoGame, mention how to open it properly in that tool.
 
 ## 🧾 Controls
 
@@ -46,7 +43,6 @@
 | Move Left     | `←` or `A`        |
 | Move Right    | `→` or `D`        |
 | Jump/Thrust   | `↑` or `W`        |
-| Shoot         | `Spacebar`        |
 | Pause Game    | `Esc`             |
 
 *(Update this section with actual controls if different.)*
@@ -71,11 +67,10 @@ SpaceWars/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
+
 
 🎯 *Feel free to contribute, report bugs, or suggest improvements via issues or pull requests!*
 
-```
 
 ---
 
