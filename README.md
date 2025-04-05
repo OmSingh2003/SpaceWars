@@ -1,8 +1,4 @@
-Here’s a polished and informative `README.md` file for your **SpaceWars** GitHub repo:
 
----
-
-```markdown
 # 🚀 SpaceWars
 
 **SpaceWars** is a 2D platformer space battle game written in **C#**, offering fast-paced action, interstellar combat, and retro-style visuals. Dive into a world of galactic warfare, dodge asteroids, destroy enemy ships, and survive wave after wave of space threats!
@@ -31,7 +27,7 @@ Here’s a polished and informative `README.md` file for your **SpaceWars** GitH
 - A C# compatible IDE (Visual Studio, Rider, etc.)
 
 ### Installation
-
+```markdown
 1. Clone the repository:
    ```bash
    git clone https://github.com/OmSingh2003/SpaceWars.git
