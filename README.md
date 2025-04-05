@@ -7,7 +7,7 @@
 
 - 🎮 Genre: 2D Platformer / Space Shooter  
 - 🧠 Language: C#  
-- 🧩 Framework: (Please specify if it's Unity / MonoGame / etc.)  
+- 🧩 Framework: Unity 
 - 🌌 Theme: Outer space battles with enemies, power-ups, and thrilling levels  
 - 💥 Features:
   - Smooth controls and responsive gameplay
