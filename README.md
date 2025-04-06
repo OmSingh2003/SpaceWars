@@ -17,7 +17,7 @@
 
 ## 📸 Screenshots
 
-*Add some in-game screenshots or gifs here to make your repo more attractive.*
+
 
 ## 🚀 Getting Started
 
